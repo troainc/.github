@@ -174,4 +174,4 @@ TROA exists to help build communities where people can connect, support one anot
 
 **#StopTheStigma**
 
-*The Realms of Asgard (TROA) Inc. — Building technology in service of people.*
+*The Realms of Asgard (TROA) Inc. — Stopping the Stigma on Mental Health #stopthestigma.*
