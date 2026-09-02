@@ -2,7 +2,25 @@
 
 **Building technology for community, resilience, and safer online spaces.**
 
-The Realms of Asgard (TROA) builds and operates community platforms, game-server infrastructure, and digital tools focused on mental-health advocacy and safer online communities.
+Building Technology for Community, Resilience, and Safer Online Spaces
+
+The Realms of Asgard (TROA) Inc. is a 501(c)(3) nonprofit organization dedicated to mental-health awareness, suicide prevention, peer support, community connection, and creating safer, more supportive online spaces.
+
+Our mission goes beyond operating gaming communities and technology platforms. TROA uses technology, gaming, education, advocacy, and human connection to build communities where people can belong, connect with others, find support, and know that they do not have to face life's challenges alone.
+
+We develop and operate community platforms, game-server infrastructure, digital resources, and technology-driven programs designed to strengthen community engagement and support our broader mental-health and suicide-prevention mission.
+
+Through peer-support initiatives, mental-health awareness and education, suicide-prevention advocacy, community outreach, gaming communities, and digital engagement, TROA works to reduce isolation and create environments built around compassion, respect, inclusion, and meaningful human connection.
+
+Gaming and online communities can be more than entertainment. For many people, they are places where friendships are formed, support networks develop, and individuals find a sense of belonging. TROA works to make those spaces safer and more purposeful while connecting technology with a mission centered on people.
+
+Our technology infrastructure supports that mission by enabling us to build and maintain secure community platforms, online services, game servers, communication systems, and digital tools that help bring people together across geographic and social boundaries.
+
+At its core, TROA is a mental-health nonprofit powered by community and technology.
+
+We believe stronger communities can help create stronger people. Whether someone connects with TROA through gaming, peer support, mental-health advocacy, suicide-prevention initiatives, volunteering, community outreach, or one of our technology platforms, our goal remains the same:
+
+Create connection. Strengthen resilience. Support one another. Build safer communities
 
 ## What we build
 
