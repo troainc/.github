@@ -2,8 +2,6 @@
 
 **Building technology for community, resilience, and safer online spaces.**
 
-Building Technology for Community, Resilience, and Safer Online Spaces
-
 The Realms of Asgard (TROA) Inc. is a 501(c)(3) nonprofit organization dedicated to mental-health awareness, suicide prevention, peer support, community connection, and creating safer, more supportive online spaces.
 
 Our mission goes beyond operating gaming communities and technology platforms. TROA uses technology, gaming, education, advocacy, and human connection to build communities where people can belong, connect with others, find support, and know that they do not have to face life's challenges alone.
