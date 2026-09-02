@@ -16,7 +16,7 @@ The Realms of Asgard (TROA) builds and operates community platforms, game-server
 - [TROA Profiler+](https://github.com/troainc/TROA-Profiler-Plus) — headless performance intelligence and incident tooling for Space Engineers servers.
 - [TROA Gridvault](https://github.com/troainc/TROA-Gridvault) — scheduled grid backups and safer recovery workflows.
 - [TROA Hangar+](https://github.com/troainc/TROA-Hangar) — player grid storage, faction hangars, and market exchange.
-- [Monitor+](https://github.com/troainc/TROADiscordSEMonitor-Releases) — Discord operations and player-facing tools for Torch servers.
+- [TROA Monitor+](https://github.com/troainc/TROADiscordSEMonitor-Releases) — Discord operations and player-facing tools for Torch servers.
 
 ## Engineering at TROA
 
