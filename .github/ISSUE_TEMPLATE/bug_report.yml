@@ -1,0 +1,37 @@
+name: Bug report
+description: Report a reproducible problem in a TROA public project.
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: Do not include credentials, private server information, player data, or vulnerability details.
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: Release or commit where the problem occurs.
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What happened, and what did you expect?
+    validations:
+      required: true
+  - type: textarea
+    id: reproduce
+    attributes:
+      label: Reproduction steps
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: Relevant platform, host, runtime, and configuration details with secrets removed.
+  - type: textarea
+    id: logs
+    attributes:
+      label: Sanitized logs or screenshots

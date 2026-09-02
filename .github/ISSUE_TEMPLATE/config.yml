@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: TROA community support
+    url: https://discord.gg/troainc
+    about: Use Discord for community and account support. Do not post security reports publicly.
+  - name: TROA website
+    url: https://therealmsofasgard.com
+    about: Official information and support routes.
