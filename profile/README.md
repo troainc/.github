@@ -22,14 +22,14 @@ Create connection. Strengthen resilience. Support one another. Build safer commu
 
 ## What we build
 
-# Community Platforms — Public-facing websites, member services, mental-health and peer-support resources, community engagement tools, support workflows, volunteer resources, and internal operational systems that help TROA serve and connect our communities.
-# Mental-Health & Peer-Support Technology — Digital tools and workflows that support mental-health awareness, suicide-prevention initiatives, peer-support programs, community outreach, resource sharing, and responsible pathways for connecting individuals with appropriate support.
-# Safer Online Communities — Systems and tools designed to promote respectful interaction, responsible moderation, community safety, accessibility, inclusion, and healthier online environments where people can connect without unnecessary toxicity or harassment.
-# Space Engineers Infrastructure — Torch plugins, integrations, and server-side systems supporting reliability, observability, automated backups, economy management, player safety, moderation, administrative operations, and long-term community stability.
-# Community Automation — Discord integrations, bots, notifications, workflows, and supporting services that help volunteers and staff communicate effectively, coordinate programs, respond to community needs, and operate responsibly.
-# Gaming & Social Infrastructure — Community-operated game servers and social spaces designed around connection and belonging. TROA recognizes that gaming communities can provide meaningful friendships and social connections, particularly for individuals who may otherwise experience isolation.
-# Volunteer & Operational Tools — Internal technology that helps TROA's volunteers and leadership coordinate programs, document activities, manage community operations, improve accountability, and responsibly scale the organization's mission.
-# Open/Closed-Source & Community Development — Where appropriate, TROA develops and shares technology that can benefit other communities, developers, server administrators, nonprofits, and organizations working to create safer and more supportive digital spaces.
+## Community Platforms — Public-facing websites, member services, mental-health and peer-support resources, community engagement tools, support workflows, volunteer resources, and internal operational systems that help TROA serve and connect our communities.
+## Mental-Health & Peer-Support Technology — Digital tools and workflows that support mental-health awareness, suicide-prevention initiatives, peer-support programs, community outreach, resource sharing, and responsible pathways for connecting individuals with appropriate support.
+## Safer Online Communities — Systems and tools designed to promote respectful interaction, responsible moderation, community safety, accessibility, inclusion, and healthier online environments where people can connect without unnecessary toxicity or harassment.
+## Space Engineers Infrastructure — Torch plugins, integrations, and server-side systems supporting reliability, observability, automated backups, economy management, player safety, moderation, administrative operations, and long-term community stability.
+## Community Automation — Discord integrations, bots, notifications, workflows, and supporting services that help volunteers and staff communicate effectively, coordinate programs, respond to community needs, and operate responsibly.
+## Gaming & Social Infrastructure — Community-operated game servers and social spaces designed around connection and belonging. TROA recognizes that gaming communities can provide meaningful friendships and social connections, particularly for individuals who may otherwise experience isolation.
+## Volunteer & Operational Tools — Internal technology that helps TROA's volunteers and leadership coordinate programs, document activities, manage community operations, improve accountability, and responsibly scale the organization's mission.
+## Open/Closed-Source & Community Development — Where appropriate, TROA develops and shares technology that can benefit other communities, developers, server administrators, nonprofits, and organizations working to create safer and more supportive digital spaces.
 
 # Technology Serving People
 
