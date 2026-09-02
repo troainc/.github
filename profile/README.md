@@ -22,9 +22,22 @@ Create connection. Strengthen resilience. Support one another. Build safer commu
 
 ## What we build
 
-- **Community platforms** — public web experiences, member services, support workflows, and internal operational tools.
-- **Space Engineers infrastructure** — Torch plugins for reliability, observability, backups, economy, player safety, and server administration.
-- **Community automation** — Discord integrations and services that help staff communicate, respond, and operate responsibly.
+# Community Platforms — Public-facing websites, member services, mental-health and peer-support resources, community engagement tools, support workflows, volunteer resources, and internal operational systems that help TROA serve and connect our communities.
+# Mental-Health & Peer-Support Technology — Digital tools and workflows that support mental-health awareness, suicide-prevention initiatives, peer-support programs, community outreach, resource sharing, and responsible pathways for connecting individuals with appropriate support.
+# Safer Online Communities — Systems and tools designed to promote respectful interaction, responsible moderation, community safety, accessibility, inclusion, and healthier online environments where people can connect without unnecessary toxicity or harassment.
+# Space Engineers Infrastructure — Torch plugins, integrations, and server-side systems supporting reliability, observability, automated backups, economy management, player safety, moderation, administrative operations, and long-term community stability.
+# Community Automation — Discord integrations, bots, notifications, workflows, and supporting services that help volunteers and staff communicate effectively, coordinate programs, respond to community needs, and operate responsibly.
+# Gaming & Social Infrastructure — Community-operated game servers and social spaces designed around connection and belonging. TROA recognizes that gaming communities can provide meaningful friendships and social connections, particularly for individuals who may otherwise experience isolation.
+# Volunteer & Operational Tools — Internal technology that helps TROA's volunteers and leadership coordinate programs, document activities, manage community operations, improve accountability, and responsibly scale the organization's mission.
+# Open/Closed-Source & Community Development — Where appropriate, TROA develops and shares technology that can benefit other communities, developers, server administrators, nonprofits, and organizations working to create safer and more supportive digital spaces.
+
+# Technology Serving People
+
+For TROA, technology is not the mission by itself — people are the mission.
+
+We use technology, gaming, community programs, peer support, education, and advocacy as ways to bring people together, reduce isolation, encourage meaningful conversations about mental health, support suicide-prevention efforts, and create communities where people know they belong.
+
+Everything we build should ultimately contribute to one goal: stronger, safer, and more connected communities.
 
 ## Featured projects
 
